@@ -1,0 +1,1 @@
+{"title": "title", "description": "description", "type": "object", "properties": {"name": { "type": "string" },"age": { "type": "number" },"hobbies": { "type": "array", "items": { "properties":{}}},"languages": { "type": "object", "properties": {"French": { "type": "string" },"German": { "type": "string" },"Spanish": { "type": "string" },}},}}
